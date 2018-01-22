@@ -552,9 +552,6 @@ h6,
 #form2-1l .mbr-section-title SPAN {
   font-size: 25px;
 }
-#contacts1-17 STRONG {
-  color: #688549;
-}
 #footer1-18 P {
   color: #327606;
 }
@@ -1563,4 +1560,181 @@ h6,
 #menu-37 .link[aria-expanded="true"],
 #menu-37 .dropdown-item[aria-expanded="true"] {
   color: #327606!important;
+}
+#menu-3i .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-3i .navbar-caption {
+  color: #ffffff;
+}
+#menu-3i .navbar-toggler {
+  color: #ffffff;
+}
+#menu-3i .close-icon::before,
+#menu-3i .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-3i .link,
+#menu-3i .dropdown-item {
+  color: #ffffff;
+}
+#menu-3i .link {
+  font-size: 0.85rem;
+}
+#menu-3i .dropdown-item,
+#menu-3i .nav-dropdown-sm .link {
+  font-size: 0.921rem;
+}
+#menu-3i .link:hover,
+#menu-3i .dropdown-item:hover,
+#menu-3i .link:focus,
+#menu-3i .dropdown-item:focus {
+  color: #327606;
+}
+#menu-3i .link[aria-expanded="true"],
+#menu-3i .dropdown-menu {
+  background: #4e6437;
+}
+#menu-3i .nav-dropdown-sm .link:focus,
+#menu-3i .nav-dropdown-sm .link:hover,
+#menu-3i .nav-dropdown-sm .dropdown-item:focus,
+#menu-3i .nav-dropdown-sm .dropdown-item:hover {
+  background: #607b44!important;
+}
+#menu-3i .navbar,
+#menu-3i .nav-dropdown-sm,
+#menu-3i .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-3i .nav-dropdown-sm .dropdown-menu {
+  background: #688549;
+}
+#menu-3i .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-3i .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-3i .bg-color.transparent.opened .link:hover,
+#menu-3i .bg-color.transparent.opened .link:focus {
+  color: #327606;
+}
+#menu-3i .link[aria-expanded="true"],
+#menu-3i .dropdown-item[aria-expanded="true"] {
+  color: #327606!important;
+}
+#msg-box8-3l .mbr-section-title,
+#msg-box8-3l p {
+  color: #fff;
+}
+#msg-box8-3l .mbr-section-title {
+  color: #327606;
+}
+#instagram-feed-block-3n .inst__title P {
+  color: #ffffff;
+}
+#social-buttons2-3o .mbr-section-title,
+#social-buttons2-3o .btn-social {
+  color: #232323;
+}
+#social-buttons2-3o .mbr-section-title {
+  color: #688549;
+}
+#footer1-3k P {
+  color: #327606;
+}
+
+#msg-box8-3s .mbr-section-title,
+#msg-box8-3s p {
+  color: #fff;
+}
+#msg-box8-3s .mbr-section-title {
+  color: #327606;
+}
+#content2-3t BLOCKQUOTE {
+  font-family: 'Ubuntu', sans-serif;
+}
+#header3-3u .mbr-section-title,
+#header3-3u .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3u .mbr-section-title {
+  color: #ffffff;
+}
+#header3-3w .mbr-section-title,
+#header3-3w .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3w .mbr-section-title {
+  color: #ffffff;
+}
+#header3-3y .mbr-section-title,
+#header3-3y .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3y .mbr-section-title {
+  color: #ffffff;
+}
+#menu-3p .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-3p .navbar-caption {
+  color: #ffffff;
+}
+#menu-3p .navbar-toggler {
+  color: #ffffff;
+}
+#menu-3p .close-icon::before,
+#menu-3p .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-3p .link,
+#menu-3p .dropdown-item {
+  color: #ffffff;
+}
+#menu-3p .link {
+  font-size: 0.85rem;
+}
+#menu-3p .dropdown-item,
+#menu-3p .nav-dropdown-sm .link {
+  font-size: 0.921rem;
+}
+#menu-3p .link:hover,
+#menu-3p .dropdown-item:hover,
+#menu-3p .link:focus,
+#menu-3p .dropdown-item:focus {
+  color: #327606;
+}
+#menu-3p .link[aria-expanded="true"],
+#menu-3p .dropdown-menu {
+  background: #4e6437;
+}
+#menu-3p .nav-dropdown-sm .link:focus,
+#menu-3p .nav-dropdown-sm .link:hover,
+#menu-3p .nav-dropdown-sm .dropdown-item:focus,
+#menu-3p .nav-dropdown-sm .dropdown-item:hover {
+  background: #607b44!important;
+}
+#menu-3p .navbar,
+#menu-3p .nav-dropdown-sm,
+#menu-3p .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-3p .nav-dropdown-sm .dropdown-menu {
+  background: #688549;
+}
+#menu-3p .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-3p .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-3p .bg-color.transparent.opened .link:hover,
+#menu-3p .bg-color.transparent.opened .link:focus {
+  color: #327606;
+}
+#menu-3p .link[aria-expanded="true"],
+#menu-3p .dropdown-item[aria-expanded="true"] {
+  color: #327606!important;
+}
+#footer1-3r P {
+  color: #327606;
 }
